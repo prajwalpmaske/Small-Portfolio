@@ -12,7 +12,7 @@ CSS Animations and Transitions
 Semantic HTML
 Accessibility Best Practices
 
-Over-View imamges..
+Over-View images..
 ![Screenshot 2023-12-15 221918](https://github.com/prajwalpmaske/Small-Portfolio/assets/114854119/0bc28cb7-7c14-44b4-b75f-a855ea88f12e)
 ![Screenshot 2023-12-15 221955](https://github.com/prajwalpmaske/Small-Portfolio/assets/114854119/a30636c4-a655-46ce-a0ab-3082e7fd956d)
 ![Screenshot 2023-12-15 222100](https://github.com/prajwalpmaske/Small-Portfolio/assets/114854119/0f30e9ff-b7da-4eca-b07b-d33908605838)
